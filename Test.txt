@@ -1,8 +1,7 @@
 A
 B
 D
-E
-F
 G 
 H
 MNOP
+XYZ ALLS
